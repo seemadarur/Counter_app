@@ -1,0 +1,42 @@
+.counter-container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(94, 219, 219);
+    padding: 10px;
+    text-align: center;
+    display: flexbox;
+    margin: 50px auto;
+    border: 5px solid black;
+    font-size: 30px;
+    font-weight: 500;
+}
+#increase{
+    color: black;
+    padding: 20px;
+    width: 100px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgb(20, 177, 80);
+    font-size: 15px;
+}
+#decrease{
+    color: black;
+    padding: 20px;
+    width: 100px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 8, 0);
+    font-size: 15px;
+}
+
+#reset{
+    color: black;
+    padding: 20px;
+    width: 100px;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 157);
+    font-size: 15px;
+}
